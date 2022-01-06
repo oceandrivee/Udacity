@@ -29,8 +29,3 @@ Medium Blog Post
 You can read the complete findings and evaluations as blog post via Medium: 
 
 
-Side notes: 
-
-Seattle Airbnb Dataset.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
-
-listings.csv Original dataset in csv format
