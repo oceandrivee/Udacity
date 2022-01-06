@@ -1,6 +1,6 @@
 # Udacity: Write a Data Science Blog Post
 
-Project Motivation
+# Project Motivation
 
 This project is initiated by Udacity for Data Scientist Nanodegree Program. The main focus of this is finding answers to respective questions: 
 
@@ -15,7 +15,7 @@ As part of the Airbnb Inside initiative, the dataset describes the listing activ
 The orijinal dataset can be found here: https://www.kaggle.com/airbnb/boston
 
 
-The List of Utilized Libraries:
+# The List of Utilized Libraries:
 
 1. Sklearn
 2. Pandas
@@ -26,7 +26,7 @@ The List of Utilized Libraries:
 7. matplotlib.pyplot
 8. File Descriptions
 
-Medium Blog Post
+# Medium Blog Post
 You can read the complete findings and evaluations as blog post via Medium: 
 
 
