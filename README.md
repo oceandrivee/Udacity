@@ -4,13 +4,14 @@ Project Motivation
 
 This project is initiated by Udacity for Data Scientist Nanodegree Program. The main focus of this is finding answers to respective questions: 
 
-1. “What are the most common amenities in the listings?” 
-2. "What attracts the guests most for renting a property?" 
-3. “What are the most influencial features of the dataset to estimate the price of a listing?” 
-4. “What is the impact of listings' proximity to Seattle Downtown in terms of price?"
+1. “What are the most common amenities in the listings in Boston?” 
+2. "What attracts guests most for renting a property in Boston?" 
+3. “What are the most effectual traits of the dataset to estimate the price of a listing?” 
+
 
 In order to answer questions above the Boston Airbnb Dataset is used for this specific project as data source. 
 As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Boston. 
+
 The orijinal dataset can be found here: https://www.kaggle.com/airbnb/boston
 
 
