@@ -14,6 +14,29 @@ As part of the Airbnb Inside initiative, the dataset describes the listing activ
 
 The orijinal dataset can be found here: https://www.kaggle.com/airbnb/boston
 
+# Project Content
+
+1. Data Understanding
+ Access and Explore
+2. Prepare Data
+ Wrangle and Clean
+3. Questions to Answer via Data Analysis
+ Question-1
+ Analyse
+ Visualise
+ Explain the visualisation
+ Question-2
+ Analyse
+ Visualise
+ Explain the visualisation
+4. Modeling
+ Fit model
+ Validate the model
+5. Questions to Answer via ML
+ Question-3
+ Analyse
+ Visualise
+ Explain the visualisation
 
 # The List of Utilized Libraries:
 
