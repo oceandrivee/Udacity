@@ -17,26 +17,26 @@ The orijinal dataset can be found here: https://www.kaggle.com/airbnb/boston
 # Project Content
 
 1. Data Understanding
- Access and Explore
+ - Access and Explore
 2. Prepare Data
- Wrangle and Clean
+ - Wrangle and Clean
 3. Questions to Answer via Data Analysis
- Question-1
- Analyse
- Visualise
- Explain the visualisation
- Question-2
- Analyse
- Visualise
- Explain the visualisation
+ - Question-1
+ - Analyse
+ - Visualise
+ - Explain the visualisation
+ - Question-2
+ - Analyse
+ - Visualise
+ - Explain the visualisation
 4. Modeling
- Fit model
- Validate the model
+ - Fit model
+ - Validate the model
 5. Questions to Answer via ML
  Question-3
- Analyse
- Visualise
- Explain the visualisation
+ - Analyse
+ - Visualise
+ - Explain the visualisation
 
 # The List of Utilized Libraries:
 
