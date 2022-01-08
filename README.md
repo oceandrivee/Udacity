@@ -27,6 +27,6 @@ The orijinal dataset can be found here: https://www.kaggle.com/airbnb/boston
 8. File Descriptions
 
 # Medium Blog Post
-You can read the complete findings and evaluations as blog post via Medium: 
+You can read the complete findings and evaluations as blog post via Medium: https://medium.com/@Ocean.drive/a-deep-dive-to-boston-airbnb-listings-ce8f3c2f2c5
 
 
